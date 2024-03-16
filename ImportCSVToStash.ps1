@@ -23,9 +23,8 @@ clear-host
 write-host "Import CSV to Stash" -ForegroundColor Cyan
 write-host "By JuiceBox`n-"
 write-host "`nQuick Tips:"
-write-host "    * The filename MUST match what's defined in the .csv file"
-write-host "    * The filesize MUST match what's defined in the .csv file"
-write-host "    * Make sure you are using this JDownloader2 script to generate the CSVs"
+write-host "    * The filename/filesize must match what's defined in your .csv files."
+write-host "    * Make sure you are using this JDownloader2 script to generate .csv files."
 write-host "      https://github.com/ALonelyJuicebox/JD2_WriteInfoCSV"
 
 
